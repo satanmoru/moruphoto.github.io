@@ -119,3 +119,14 @@ MoruPhoto.com is coming back soon.  Please Call +8801970074686
     </section>
         
     </main>
+
+
+
+		<li class="nav-item">
+    		<a class="nav-link" href="##">Post</a>
+    		</li>
+
+
+			<li class="nav-item">
+    		<a class="nav-link" href="#author.html"><img class="rounded-circle mr-2" src="assets/img/av.png" width="30"><span class="align-middle">Author</span></a>
+    		</li>

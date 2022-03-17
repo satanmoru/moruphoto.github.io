@@ -75,7 +75,7 @@ body {
   line-height: 1.5;
   color: #343a40;
   text-align: left;
-  background-color: #fff; }
+  background-color: rgb(0, 0, 0); }
 
 /* line 73, node_modules/bootstrap/scss/_reboot.scss */
 [tabindex="-1"]:focus {

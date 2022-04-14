@@ -7476,3 +7476,26 @@ list-blue i {
         max-width: 1140px;
     }
 }
+
+
+/* ==== URL ShortCut Section : Start ==== */
+
+.url_shortcut_wrapper {
+    background: #151515;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.url_shortcut_link_btn {
+    background: #098ffa;
+    color: #FFF;
+    font-size: 18px;
+    padding: 15px 20px;
+}
+
+.url_shortcut_link_btn:hover {
+    color: #fff;
+}
+
+
+/* ==== URL ShortCut Section : End ==== */
